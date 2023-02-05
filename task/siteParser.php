@@ -1,6 +1,5 @@
 <?php
 include 'pageParser.php';
-include 'statistics.php';
 
 class SiteParser
 {

@@ -1,5 +1,6 @@
 <?php
 include 'siteParser.php';
+include 'statistics.php';
 
 $GLOBALS['headUrl'] = 'https://ecarstrade.com';
 
